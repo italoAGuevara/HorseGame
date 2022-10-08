@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HorseGame</string>
+
+    <string name="title">Horse Challenge</string>
+    <string name="level">Level</string>
+    <string name="moves">Moves</string>
+    <string name="time">Time</string>
+    <string name="Lives">Lives</string>
+    <string name="options">Options</string>
+    <string name="instructions">Move the horse over board to complete all cells></string>
+    <string name="credits">Game created by Italo Guevara Villamil</string>
+
+    <string name="premiun">Tap here to remove ads, get more levels and unlimited lives</string>
+    <string name="premiunTitle">Get Premiun Access Forever</string>
+    <string name="premiunBenefit1">No more Ads</string>
+    <string name="premiunBenefit2">Unlimited lives</string>
+    <string name="premiunBenefit3">Keep your reached level</string>
+    <string name="pay">PAY ONLY 1$ NOW</string>
+</resources>
