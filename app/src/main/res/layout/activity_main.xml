@@ -284,623 +284,741 @@
                     android:layout_marginTop="20dp">
 
                     <TableRow android:weightSum="8">
+
                         <ImageView
                             android:id="@+id/c07"
-                            android:tag="c07"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
+                            android:layout_weight="1"
                             android:background="@color/white_cell"
-                            android:src="@drawable/horse"/>
+                            android:onClick="checkChellClicked"
+                            android:tag="c07" />
+
                         <ImageView
                             android:id="@+id/c17"
-                            android:tag="c17"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/black_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c17" />
+
                         <ImageView
                             android:id="@+id/c27"
-                            android:tag="c27"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/white_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c27" />
+
                         <ImageView
                             android:id="@+id/c37"
-                            android:tag="c37"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/black_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c37" />
+
                         <ImageView
                             android:id="@+id/c47"
-                            android:tag="c47"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/white_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c47" />
+
                         <ImageView
                             android:id="@+id/c57"
-                            android:tag="c57"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/black_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c57" />
+
                         <ImageView
                             android:id="@+id/c67"
-                            android:tag="c67"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/white_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c67" />
+
                         <ImageView
                             android:id="@+id/c77"
-                            android:tag="c77"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/black_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c77" />
                     </TableRow>
 
                     <TableRow android:weightSum="8">
+
                         <ImageView
                             android:id="@+id/c06"
-                            android:tag="c06"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
+                            android:layout_weight="1"
                             android:background="@color/black_cell"
-                            android:src="@drawable/horse"/>
+                            android:onClick="checkChellClicked"
+                            android:tag="c06" />
+
                         <ImageView
                             android:id="@+id/c16"
-                            android:tag="c16"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/white_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c16" />
+
                         <ImageView
                             android:id="@+id/c26"
-                            android:tag="c26"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/black_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c26" />
+
                         <ImageView
                             android:id="@+id/c36"
-                            android:tag="c36"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/white_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c36" />
+
                         <ImageView
                             android:id="@+id/c46"
-                            android:tag="c46"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/black_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c46" />
+
                         <ImageView
                             android:id="@+id/c56"
-                            android:tag="c56"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/white_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c56" />
+
                         <ImageView
                             android:id="@+id/c66"
-                            android:tag="c66"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/black_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c66" />
+
                         <ImageView
                             android:id="@+id/c76"
-                            android:tag="c76"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/white_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c76" />
                     </TableRow>
 
                     <TableRow android:weightSum="8">
+
                         <ImageView
                             android:id="@+id/c05"
-                            android:tag="c05"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
+                            android:layout_weight="1"
                             android:background="@color/white_cell"
-                            android:src="@drawable/horse"/>
+                            android:onClick="checkChellClicked"
+                            android:tag="c05" />
+
                         <ImageView
                             android:id="@+id/c15"
-                            android:tag="c15"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/black_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c15" />
+
                         <ImageView
                             android:id="@+id/c25"
-                            android:tag="c25"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/white_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c25" />
+
                         <ImageView
                             android:id="@+id/c35"
-                            android:tag="c35"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/black_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c35" />
+
                         <ImageView
                             android:id="@+id/c45"
-                            android:tag="c45"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/white_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c45" />
+
                         <ImageView
                             android:id="@+id/c55"
-                            android:tag="c55"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/black_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c55" />
+
                         <ImageView
                             android:id="@+id/c65"
-                            android:tag="c65"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/white_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c65" />
+
                         <ImageView
                             android:id="@+id/c75"
-                            android:tag="c75"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/black_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c75" />
                     </TableRow>
 
                     <TableRow android:weightSum="8">
+
                         <ImageView
                             android:id="@+id/c04"
-                            android:tag="c04"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
+                            android:layout_weight="1"
                             android:background="@color/black_cell"
-                            android:src="@drawable/horse"/>
+                            android:onClick="checkChellClicked"
+                            android:tag="c04" />
+
                         <ImageView
                             android:id="@+id/c14"
-                            android:tag="c14"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/white_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c14" />
+
                         <ImageView
                             android:id="@+id/c24"
-                            android:tag="c24"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/black_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c24" />
+
                         <ImageView
                             android:id="@+id/c34"
-                            android:tag="c34"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/white_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c34" />
+
                         <ImageView
                             android:id="@+id/c44"
-                            android:tag="c44"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/black_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c44" />
+
                         <ImageView
                             android:id="@+id/c54"
-                            android:tag="c54"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/white_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c54" />
+
                         <ImageView
                             android:id="@+id/c64"
-                            android:tag="c64"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/black_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c64" />
+
                         <ImageView
                             android:id="@+id/c74"
-                            android:tag="c74"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/white_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c74" />
                     </TableRow>
 
                     <TableRow android:weightSum="8">
+
                         <ImageView
                             android:id="@+id/c03"
-                            android:tag="c03"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
+                            android:layout_weight="1"
                             android:background="@color/white_cell"
-                            android:src="@drawable/horse"/>
+                            android:onClick="checkChellClicked"
+                            android:tag="c03" />
+
                         <ImageView
                             android:id="@+id/c13"
-                            android:tag="c13"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/black_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c13" />
+
                         <ImageView
                             android:id="@+id/c23"
-                            android:tag="c23"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/white_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c23" />
+
                         <ImageView
                             android:id="@+id/c33"
-                            android:tag="c33"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/black_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c33" />
+
                         <ImageView
                             android:id="@+id/c43"
-                            android:tag="c43"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/white_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c43" />
+
                         <ImageView
                             android:id="@+id/c53"
-                            android:tag="c53"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/black_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c53" />
+
                         <ImageView
                             android:id="@+id/c63"
-                            android:tag="c63"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/white_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c63" />
+
                         <ImageView
                             android:id="@+id/c73"
-                            android:tag="c73"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/black_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c73" />
                     </TableRow>
 
                     <TableRow android:weightSum="8">
+
                         <ImageView
                             android:id="@+id/c02"
-                            android:tag="c02"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
+                            android:layout_weight="1"
                             android:background="@color/black_cell"
-                            android:src="@drawable/horse"/>
+                            android:onClick="checkChellClicked"
+                            android:tag="c02" />
+
                         <ImageView
                             android:id="@+id/c12"
-                            android:tag="c12"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/white_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c12" />
+
                         <ImageView
                             android:id="@+id/c22"
-                            android:tag="c22"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/black_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c22" />
+
                         <ImageView
                             android:id="@+id/c32"
-                            android:tag="c32"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/white_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c32" />
+
                         <ImageView
                             android:id="@+id/c42"
-                            android:tag="c42"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/black_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c42" />
+
                         <ImageView
                             android:id="@+id/c52"
-                            android:tag="c52"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/white_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c52" />
+
                         <ImageView
                             android:id="@+id/c62"
-                            android:tag="c62"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/black_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c62" />
+
                         <ImageView
                             android:id="@+id/c72"
-                            android:tag="c72"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/white_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c72" />
                     </TableRow>
 
                     <TableRow android:weightSum="8">
+
                         <ImageView
                             android:id="@+id/c01"
-                            android:tag="c01"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
+                            android:layout_weight="1"
                             android:background="@color/white_cell"
-                            android:src="@drawable/horse"/>
+                            android:onClick="checkChellClicked"
+                            android:tag="c01" />
+
                         <ImageView
                             android:id="@+id/c11"
-                            android:tag="c11"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/black_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c11" />
+
                         <ImageView
                             android:id="@+id/c21"
-                            android:tag="c21"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/white_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c21" />
+
                         <ImageView
                             android:id="@+id/c31"
-                            android:tag="c31"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/black_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c31" />
+
                         <ImageView
                             android:id="@+id/c41"
-                            android:tag="c41"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/white_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c41" />
+
                         <ImageView
                             android:id="@+id/c51"
-                            android:tag="c51"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/black_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c51" />
+
                         <ImageView
                             android:id="@+id/c61"
-                            android:tag="c61"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/white_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c61" />
+
                         <ImageView
                             android:id="@+id/c71"
-                            android:tag="c71"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/black_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c71" />
                     </TableRow>
 
                     <TableRow android:weightSum="8">
+
                         <ImageView
                             android:id="@+id/c00"
-                            android:tag="c07"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
+                            android:layout_weight="1"
                             android:background="@color/black_cell"
-                            android:src="@drawable/horse"/>
+                            android:onClick="checkChellClicked"
+                            android:tag="c07" />
+
                         <ImageView
                             android:id="@+id/c10"
-                            android:tag="c10"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/white_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c10" />
+
                         <ImageView
                             android:id="@+id/c20"
-                            android:tag="c20"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/black_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c20" />
+
                         <ImageView
                             android:id="@+id/c30"
-                            android:tag="c30"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/white_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c30" />
+
                         <ImageView
                             android:id="@+id/c40"
-                            android:tag="c40"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/black_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c40" />
+
                         <ImageView
                             android:id="@+id/c50"
-                            android:tag="c50"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/white_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c50" />
+
                         <ImageView
                             android:id="@+id/c60"
-                            android:tag="c60"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
                             android:layout_height="43dp"
                             android:layout_column="0"
-                            android:background="@color/black_cell" />
+                            android:layout_weight="1"
+                            android:background="@color/black_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c60" />
+
                         <ImageView
                             android:id="@+id/c70"
-                            android:tag="c70"
-                            android:onClick="checkChellClicked"
                             android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:layout_column="1"
                             android:layout_height="43dp"
-                            android:background="@color/white_cell"/>
+                            android:layout_column="1"
+                            android:layout_weight="1"
+                            android:background="@color/white_cell"
+                            android:onClick="checkChellClicked"
+                            android:tag="c70" />
                     </TableRow>
 
 
                 </TableLayout>
 
-                <!--
+
                 <LinearLayout
-                    android:layout_width=""
-                    android:layout_height="">
+                    android:id="@+id/lyMessage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginTop="20dp"
+                    android:background="@color/message_bg"
+                    android:orientation="vertical"
+                    android:visibility="visible">
+
+                    <TextView
+                        android:id="@+id/tvIntrolevel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="30dp"
+                        android:fontFamily="@font/amaranth_regular"
+                        android:shadowColor="@color/white"
+                        android:shadowRadius="8"
+                        android:text="Level : 1"
+                        android:textColor="@color/app_color_dark"
+                        android:textSize="70sp"/>
+
+                    <TextView
+                        android:id="@+id/tvIntrolives"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="30dp"
+                        android:fontFamily="@font/amaranth_regular"
+                        android:shadowColor="@color/white"
+                        android:shadowRadius="8"
+                        android:text="Lives : 1"
+                        android:textColor="@color/app_color_dark"
+                        android:textSize="45sp"/>
+
+                    <!--BUTON-->
+                    <TextView
+                        android:id="@+id/tvAction"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_marginLeft="24dp"
+                        android:layout_marginTop="38dp"
+                        android:layout_marginRight="24dp"
+                        android:background="@drawable/bg_title_top"
+                        android:fontFamily="@font/amaranth_regular"
+                        android:onClick="launchAction"
+                        android:paddingTop="10dp"
+                        android:text="Next Levels"
+                        android:textAlignment="center"
+                        android:textColor="@color/app_color_light"
+                        android:textSize="24sp"/>
+
+                    <ImageButton
+                        android:id="@+id/ibtShare"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_marginLeft="24dp"
+                        android:layout_marginRight="24dp"
+                        android:layout_marginBottom="40dp"
+                        android:background="@drawable/bg_title_botton"
+                        android:onClick="launchShareGame"
+                        android:src="@drawable/share"
+                        android:visibility="visible"
+                        />
 
                 </LinearLayout>
-                -->
+
             </RelativeLayout>
 
             <TextView
@@ -912,7 +1030,7 @@
                 android:text="@string/instructions"
                 android:textAlignment="center"
                 android:textColor="@color/app_color_regular"
-                android:textSize="14sp"/>
+                android:textSize="14sp" />
 
             <TextView
                 android:id="@+id/tvCredits"
@@ -922,7 +1040,7 @@
                 android:text="@string/credits"
                 android:textAlignment="center"
                 android:textColor="@color/app_color_regular"
-                android:textSize="14sp"/>
+                android:textSize="14sp" />
 
         </LinearLayout>
 

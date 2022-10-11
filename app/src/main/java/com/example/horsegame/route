@@ -1,0 +1,30 @@
+1- mejoramos las funcionales existente. QUE FUNCIONE DE VERDAD
+2- mejoramos la UX de las funcionalidades existentes.
+3- añadimos nuevas funcionalidades
+
+
+
+
+ERRORES
+*
+*
+
+MEJORAS DE UX
+* un color para el punto actual y otro para el rastro
+*
+*
+*
+*
+
+FUNCIONALIDADES
+* inicio aleatorio
+* poder mover el caballo(comprobando el mvoimiento de L)
+* pintar niveles (y limpiarlos)
+* Control de movimientos
+* Control de opciones
+* Control de tiempo
+* Control de vidas
+* Mostrar publicidad
+* Permitir pagar para ser premiun
+* Habilitar accesos de premiun a mas niveles y deshabilitar publicidad
+* opcion de compartir resultado
